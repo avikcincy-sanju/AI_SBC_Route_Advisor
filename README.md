@@ -56,13 +56,18 @@ An AI-Driven Framework for Multi-Rail Payment Orchestration.
 *SSRN Working Paper. April 2026.*
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6613638
 
+**Formal Research Citation (Zenodo DOI):**
+Nandi, A. (2026). AI Route Advisor: Intelligent Payment Rail Recommendation 
+for Cross-Border Transfers (1.0.0). Zenodo. 
+https://doi.org/10.5281/zenodo.20140629
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20140629.svg)](https://doi.org/10.5281/zenodo.20140629)
+
 ### Full Research Series
 
 This prototype is part of a three-paper research series on the evolution 
 of intelligent and autonomous payment systems:
 
-| # | Title | SSRN ID | Date |
-|---|---|---|---|
 | Paper 1 | The Emergence of Intelligent Payment Systems: An AI-Driven Framework for Multi-Rail Payment Orchestration | [6613638](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6613638) | April 2026 |
 | Paper 2 | AI-Native Intelligent Payment Systems: Autonomous Financial Execution in Multi-Rail Infrastructure | [6708820](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6708820) | May 2026 |
 | Paper 3 | The Sovereign Payment Agent: Governance, Accountability, and Trust Frameworks for Autonomous Financial Execution | [6752899](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6752899) | May 2026 |
